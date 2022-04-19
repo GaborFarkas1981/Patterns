@@ -1,4 +1,4 @@
-package com.gfarkas.pattern.builder;
+package com.gfarkas.pattern.creational.builder;
 
 public class Main {
 
